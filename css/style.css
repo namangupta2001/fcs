@@ -368,7 +368,7 @@ ul.multi-column-dropdown li a:hover {
 /*-- carousel-slider --*/
 
 .carousel-item.item1 {
-    background: url(../images2/htrolley.jpeg) no-repeat center;
+    background: url(../images2/htrolley3.jpeg) no-repeat center;
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: cover;
@@ -377,9 +377,9 @@ ul.multi-column-dropdown li a:hover {
 }
 
 .carousel-item.item2 {
-    background: url(../images2/flyash6.jpeg) no-repeat center;
-    background-size:cover;
-    -webkit-background-size: cover;
+    background: url(../images2/flyash7.jpeg) no-repeat center;
+    background-size:contain;
+    -webkit-background-size: contain;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
