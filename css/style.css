@@ -387,9 +387,8 @@ ul.multi-column-dropdown li a:hover {
 
 .carousel-item.item3 {
     background: url(../images2/hframe2.jpeg) no-repeat center;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
+    background-size: contain;
+    -moz-background-size: contain;
     -o-background-size: cover;
     -ms-background-size: cover;
 }
