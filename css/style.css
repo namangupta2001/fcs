@@ -368,12 +368,13 @@ ul.multi-column-dropdown li a:hover {
 /*-- carousel-slider --*/
 
 .carousel-item.item1 {
-    background: url(../images2/htrolley3.jpeg) no-repeat center;
+    background: url(../images2/htrolley3.jpeg) no-repeat center ; 
     background-size: contain;
     -webkit-background-size: contain;
     -moz-background-size: cover;
     -o-background-size: cover;
     -ms-background-size: cover;
+    
 }
 
 .carousel-item.item2 {
@@ -406,11 +407,15 @@ ul.multi-column-dropdown li a:hover {
 .carousel-item.item3,
 .carousel-item.item2,
 .carousel-item.item1 {
-    min-height: 640px;
+    /* min-height: 640px; */
+    min-height: 400px;
+   max-height: 450px;
+    background-color:#f5f5f5;
 }
 
+
 .w3l-space-banner {
-    padding-top: 9em;
+    padding-top: 15em;
 }
 
 .carousel-caption {
