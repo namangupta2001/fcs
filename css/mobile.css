@@ -24,7 +24,7 @@
         align-items: center;
     }
     .call_mail {
-        display: flex;
+        display: none;
         justify-content: center;
         align-items: center;
     }
