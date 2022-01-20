@@ -4236,14 +4236,14 @@ tbody.collapse.show {
     padding: 0.25rem 0.75rem;
     font-size: 1.25rem;
     line-height: 1;
-    background-color: transparent;
+    background-color: white;
     border: 1px solid transparent;
     border-radius: 0.25rem;
 }
 
 .navbar-toggler:hover,
 .navbar-toggler:focus {
-    text-decoration: none;
+    text-decoration: white;
 }
 
 .navbar-toggler:not(:disabled):not(.disabled) {
@@ -4625,8 +4625,8 @@ tbody.collapse.show {
 }
 
 .navbar-dark .navbar-toggler {
-    color: rgba(255, 255, 255, 0.5);
-    border-color: rgba(255, 255, 255, 0.1);
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
 }
 
 .navbar-dark .navbar-toggler-icon {
