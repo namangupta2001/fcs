@@ -325,14 +325,16 @@ button.w3view-cart {
 /*-- navigation --*/
 
 .navbar-inner {
-    background: #f8f9faaf;
-    box-shadow: 0px 2px 6px 1px rgba(0, 0, 0, 0.13);
+    /* background: #f8f9faaf; */
+    background: #000000;
+    /* box-shadow: 0px 2px 6px 1px rgba(0, 0, 0, 0.13); */
 }
 
 .navbar-light .navbar-nav .nav-link {
-    letter-spacing: 1px;
-    font-size: 15px;
-    color: #000;
+    letter-spacing: 2px;
+    font-size: 18px;
+    color: rgb(253, 250, 250);
+    /* color: #000; */
     text-align: left;
 }
 
@@ -340,7 +342,7 @@ button.w3view-cart {
 .navbar-light .navbar-nav .active>.nav-link,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .nav-link.active {
-    color: #F45C5D;
+    color: #bd0303;
 }
 
 
@@ -358,7 +360,8 @@ ul.multi-column-dropdown li {
 ul.multi-column-dropdown li a {
     text-decoration: none;
     font-size: 14px;
-    color: #545454;
+    /* color: #545454; */
+    color: #000000;
     letter-spacing: 1px;
 }
 
@@ -2550,7 +2553,7 @@ div#testimonials h4.m-title {
         font-size: 15px;
     }
     .navbar-light .navbar-toggler {
-        border-color: #0879c9;
+        border-color: #ffffff;
         border-radius: 0;
     }
     .carousel-caption p {
