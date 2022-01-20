@@ -1,0 +1,31 @@
+@media screen and (max-width:1024px) {
+    .fcs_logo {
+        /* border: 2px solid red; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fcs_logo>a {
+        width: 50%;
+        /* border: 2px solid blue; */
+    }
+    .fcs_logo img {
+        width: 100%;
+        /* border: 2px solid red; */
+        justify-self: center;
+    }
+    /* .container {
+        border: 2px solid blue;
+    } */
+    .header-bot {
+        display: flex;
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+    .call_mail {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
