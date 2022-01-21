@@ -2553,8 +2553,8 @@ div#testimonials h4.m-title {
         font-size: 15px;
     }
     .navbar-light .navbar-toggler {
-        border-color: #ffffff;
-        border-radius: 0;
+        border-color: #d66e0c;
+        border-radius: 0.8rem;
     }
     .carousel-caption p {
         letter-spacing: 3px;
@@ -3202,7 +3202,8 @@ div#testimonials h4.m-title {
         width: 67%;
     }
     .navbar-toggler {
-        padding: 0.1rem 0.4rem;
+        /* padding: 0.1rem 0.4rem; */
+        padding: 0.01rem 0.1rem;
         font-size: 1.2rem;
     }
     .carousel-caption p {
